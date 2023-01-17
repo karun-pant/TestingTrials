@@ -18,6 +18,7 @@
 		C03FE83629765ED300BBE008 /* FeedLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = C03FE83429765ED300BBE008 /* FeedLoader.swift */; };
 		C03FE83929765EF400BBE008 /* RemoteFeedLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = C03FE83829765EF400BBE008 /* RemoteFeedLoader.swift */; };
 		C03FE83B29765F2B00BBE008 /* RemoteFeedLoaderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C03FE83A29765F2B00BBE008 /* RemoteFeedLoaderTests.swift */; };
+		C03FE83D297660FE00BBE008 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C03FE83C297660FE00BBE008 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		C03FE83429765ED300BBE008 /* FeedLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedLoader.swift; sourceTree = "<group>"; };
 		C03FE83829765EF400BBE008 /* RemoteFeedLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RemoteFeedLoader.swift; sourceTree = "<group>"; };
 		C03FE83A29765F2B00BBE008 /* RemoteFeedLoaderTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RemoteFeedLoaderTests.swift; sourceTree = "<group>"; };
+		C03FE83C297660FE00BBE008 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 		C03FE7FB29765DC700BBE008 = {
 			isa = PBXGroup;
 			children = (
+				C03FE83C297660FE00BBE008 /* README.md */,
 				C03FE80629765DC700BBE008 /* TestingTrials */,
 				C03FE81829765DC800BBE008 /* TestingTrialsTests */,
 				C03FE82229765DC800BBE008 /* TestingTrialsUITests */,
@@ -261,6 +264,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C03FE83D297660FE00BBE008 /* README.md in Resources */,
 				C03FE81029765DC800BBE008 /* Preview Assets.xcassets in Resources */,
 				C03FE80C29765DC800BBE008 /* Assets.xcassets in Resources */,
 			);
